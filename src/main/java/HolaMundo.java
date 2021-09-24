@@ -3,6 +3,9 @@ public class HolaMundo {
         System.out.println("hola gente xd");
         int a = 0;
         System.out.println("a");
+        System.out.println("aaaaaaaa");
+
+
     }
     public static void metodoPruebaCamilo(){
 
